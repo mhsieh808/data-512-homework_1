@@ -6,8 +6,8 @@ The goal of this assignment is to acquire page view data on dinosaur articles fr
 
 ## About the Data
 
-Wikimedia API: https://www.mediawiki.org/wiki/REST_API
-Content retrieved from the API is licesnsed under the CC-BY-SA 3.0 and GFDL licenses.
+Wikimedia API: https://www.mediawiki.org/wiki/REST_API  
+Content retrieved from the API is licesnsed under the CC-BY-SA 3.0 and GFDL licenses.  
 Terms and Conditions of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
 
 The pulled data ranges from July 2015 to the end of September 2022. 
