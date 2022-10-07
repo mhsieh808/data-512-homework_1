@@ -1,10 +1,10 @@
-# data-512-homework_1
+# DATA 512 HW 1
 
-# Goal
+## Goal
 
 The goal of this assignment is to acquire page view data on dinosaur articles from Wikipedia to draw insights such as which articles have the most or least views in a given time period.
 
-# About the Data
+## About the Data
 
 Wikimedia API: https://www.mediawiki.org/wiki/REST_API
 Content retrieved from the API is licesnsed under the CC-BY-SA 3.0 and GFDL licenses.
@@ -15,7 +15,7 @@ There are months with no data for the page views for certain months that were le
 
 The output consists of 3 JSON files for monthly mobile views, monthly desktop views, and monthly cumulative views. The main variables of interests are the dinosaur names, date (YYYYMM), and page views. These files can be found in ```raw_data```.
 
-# Project Structure
+## Project Structure
 
 ```
 └── data-512-homework_1
